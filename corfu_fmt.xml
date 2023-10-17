@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<formattings>
+  <fmt id="1">
+    <pr name="rFonts" value="Calibri" />
+    <pr name="sz" value="22" />
+    <pr name="pIndentLeft" value="720" />
+    <pr name="pJustify" value="both" />
+  </fmt>
+  <fmt id="2">
+    <pr name="rFonts" value="Times New Roman" />
+    <pr name="sz" value="22" />
+    <pr name="pIndentLeft" value="720" />
+    <pr name="pJustify" value="both" />
+  </fmt>
+  <fmt id="3">
+    <pr name="rFonts" value="Times New Roman" />
+    <pr name="sz" value="22" />
+    <pr name="pIndentLeft" value="720" />
+    <pr name="pJustify" value="both" />
+    <pr name="vertAlign" value="superscript" />
+  </fmt>
+  <fmt id="4">
+    <pr name="rFonts" value="Times New Roman" />
+    <pr name="sz" value="22" />
+    <pr name="pIndentLeft" value="720" />
+    <pr name="pJustify" value="both" />
+    <pr name="color" value="202122" />
+  </fmt>
+  <fmt id="5">
+    <pr name="rFonts" value="Times New Roman" />
+    <pr name="sz" value="22" />
+    <pr name="pIndentLeft" value="720" />
+    <pr name="pJustify" value="both" />
+    <pr name="b" value="1" />
+    <pr name="vertAlign" value="superscript" />
+  </fmt>
+  <fmt id="6">
+    <pr name="rFonts" value="Times New Roman" />
+    <pr name="sz" value="22" />
+    <pr name="pIndentLeft" value="720" />
+    <pr name="pJustify" value="both" />
+    <pr name="color" value="202122" />
+    <pr name="vertAlign" value="superscript" />
+  </fmt>
+  <fmt id="7">
+    <pr name="rFonts" value="Calibri" />
+    <pr name="sz" value="22" />
+  </fmt>
+</formattings>
